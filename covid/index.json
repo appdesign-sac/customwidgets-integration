@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-ajax-covid",
-      "url": "http://localhost:3000/ajax/covid/main.js",
+      "url": "http://localhost:3000/covid/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
